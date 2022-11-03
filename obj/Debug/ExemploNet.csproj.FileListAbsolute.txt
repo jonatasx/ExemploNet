@@ -1,0 +1,8 @@
+C:\Users\jonat\Documents\checklistOOP2\Competencia4\bin\Debug\ExemploNet.exe.config
+C:\Users\jonat\Documents\checklistOOP2\Competencia4\bin\Debug\ExemploNet.exe
+C:\Users\jonat\Documents\checklistOOP2\Competencia4\bin\Debug\ExemploNet.pdb
+C:\Users\jonat\Documents\checklistOOP2\Competencia4\obj\Debug\ExemploNet.csproj.AssemblyReference.cache
+C:\Users\jonat\Documents\checklistOOP2\Competencia4\obj\Debug\ExemploNet.csproj.SuggestedBindingRedirects.cache
+C:\Users\jonat\Documents\checklistOOP2\Competencia4\obj\Debug\ExemploNet.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Documents\checklistOOP2\Competencia4\obj\Debug\ExemploNet.exe
+C:\Users\jonat\Documents\checklistOOP2\Competencia4\obj\Debug\ExemploNet.pdb
